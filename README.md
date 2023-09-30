@@ -1,4 +1,4 @@
-[JS 2048 Game](https://github.com/SamirMamedov1010/2048-game/tree/master)
+[2048 Game](https://github.com/SamirMamedov1010/2048-game/tree/master)
 
 Implemented a popular game using pure JS, HTML, and CSS. Implemented the game mechanics, and scoring system similar to the original game experience.
 
